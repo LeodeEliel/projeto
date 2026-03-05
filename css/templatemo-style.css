@@ -218,7 +218,7 @@ header .social-icon li a
 	}
 #home h1 span
 	{
-		color: #28a7e9;
+		color: #FF0015;
 		font-weight: bold;
 	}
 #home .btn
@@ -418,7 +418,7 @@ header .social-icon li a
 	}
 #contact input[type="submit"]
 	{
-		background: #28a7e9;
+		background: #FF0015;
 		font-weight: bold;
 		-webkit-transition: all 0.4s ease-in-out;
 		        transition: all 0.4s ease-in-out;
@@ -500,7 +500,7 @@ header .social-icon li a
 	}
 .social-icon li a:hover
 	{
-		background: #28a7e9;
+		background: #FF0015;
 		border-color: transparent;
 	}
 /* end social icon */
@@ -519,7 +519,7 @@ header .social-icon li a
 		}
 	#portfolio .portfolio-thumb .portfolio-overlay
 	{
-		background: #28a7e9;
+		background: #FF0015;
 		top: 0;
 		left: 0;
 		right: 0;
@@ -595,6 +595,7 @@ header .social-icon li a
 }
 
 /* end 360 media quires */
+
 
 
 
