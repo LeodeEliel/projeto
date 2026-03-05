@@ -29,7 +29,7 @@ h2
 	}	
 h2 span
 	{
-		color: #28a7e9;
+		color: #FF0015;
 		font-weight: bold;
 	}
 /* end h2 */
@@ -135,7 +135,7 @@ header
 	}
 header .fa
 	{
-		color: #28a7e9;
+		color: #FF0015;
 	}
 header span
 	{
@@ -237,7 +237,7 @@ header .social-icon li a
 	}
 #home .btn:hover
 	{
-		background: #28a7e9;
+		background: #FF0015;
 		border-color: transparent;
 	}
 .element {
@@ -294,7 +294,7 @@ header .social-icon li a
 	}
 #team .team-wrapper .team-des span
 	{
-		color: #28a7e9;
+		color: #FF0015;
 		display: block;
 		font-weight: bold;
 		padding-bottom: 12px;
@@ -330,7 +330,7 @@ header .social-icon li a
 	}
 #service h4
 	{
-		color: #28a7e9;
+		color: #FF0015;
 		font-weight: 600;
 		padding-top: 10px;
 		padding-bottom: 14px;
@@ -358,7 +358,7 @@ header .social-icon li a
 	}
 #portfolio .portfolio-thumb .portfolio-overlay
 	{
-		background: #28a7e9;
+		background: #FF0015;
 		top: 0;
 		left: 0;
 		right: 0;
@@ -401,7 +401,7 @@ header .social-icon li a
 #contact .form-control
 	{
 		background: transparent;
-		border: 1px solid #28a7e9;
+		border: 1px solid #FF0015;
 		border-radius: 2px;
 		box-shadow: none;
 		color: #fff;
@@ -595,3 +595,4 @@ header .social-icon li a
 }
 
 /* end 360 media quires */
+
