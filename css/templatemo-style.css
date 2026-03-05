@@ -165,7 +165,7 @@ header .social-icon li a
 /* start nagivation */
 .navbar-default
 	{
-		background: #fff;
+		background: #000;
 		border: none;
 		box-shadow: none;
 		margin: 0 !important;
@@ -595,6 +595,7 @@ header .social-icon li a
 }
 
 /* end 360 media quires */
+
 
 
 
